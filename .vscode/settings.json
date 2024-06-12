@@ -12,7 +12,7 @@
     "git.postCommitCommand": "sync",
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
-    "sessionlogger.enabled": true,
+    "sessionlogger.enabled": false,
     "explorer.compactFolders": false,
     "explorer.sortOrderLexicographicOptions": "unicode",
     "workbench.editorAssociations": {
